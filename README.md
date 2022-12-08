@@ -10,7 +10,7 @@
 ---
 
 ### Description <a name="Description"></a>
-The Interview Game is a website that allows group of users to play amongst each other as an Interviewer or a Interviewee. The website offers players to host or join a current lobby alongside with a discord widget that allows for players to jump into channels to simulate a better experience. The game works with one player being the Interviewer for one round while the other players are Interviewees which all have 5 cards that they must use to win over the Interviewer for the current job card.
+The Interview Game is a website that allows group of users to play amongst each other as an Interviewer or a Interviewee. The website offers players to host or join a current lobby. The game works with one player being the Interviewer for one round while the other players are Interviewees which all have 5 cards that they must use to win over the Interviewer for the current job card.
 
 ---
 
