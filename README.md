@@ -45,7 +45,7 @@ npm start
 
 If you did the previous steps right you should be able to navigate to https://localhost:8080 to pull up The Interview Game!
 
-The Interview Game is also hosted on heroku and can be found [here](https://interview--game.herokuapp.com/)
+The Interview Game is also hosted on Render and can be found [here](https://interview-game.onrender.com)
 
 ---
 ### Usage <a name="Usage"></a>
